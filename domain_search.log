@@ -1,0 +1,205 @@
+2025-01-21 09:51:34,057 - INFO - Initialized new search cache.
+2025-01-21 09:51:34,057 - INFO - Starting the domain finding process...
+2025-01-21 09:51:34,060 - INFO - CSV file loaded successfully!
+2025-01-21 09:51:34,063 - INFO - First rows of the input file:
+                       NAME           CITY STATE
+0  ENGLISH S MODEL RAILROAD  MONTOURSVILLE    PA
+1               MIGHTY DUCT         MARION    OH
+2       BROOKVILLE SERVICES     BROOKVILLE    PA
+3         TRIPLE B CLEANING        ORLANDO    NY
+4           TAAG INDUSTRIES      ESCONDIDO    GA
+2025-01-21 09:51:34,076 - INFO - Performing search for query: 'ENGLISH S MODEL RAILROAD official website'
+2025-01-21 09:51:34,404 - INFO - response: https://duckduckgo.com/?q=ENGLISH+S+MODEL+RAILROAD+official+website 202 15043
+2025-01-21 09:51:34,404 - WARNING - Error with DuckDuckGo Search for query 'ENGLISH S MODEL RAILROAD official website': https://duckduckgo.com/?q=ENGLISH+S+MODEL+RAILROAD+official+website 202 Ratelimit. Retrying in 2.12 seconds... (Attempt 1/5)
+2025-01-21 09:51:36,527 - INFO - Performing search for query: 'ENGLISH S MODEL RAILROAD official website'
+2025-01-21 09:51:36,813 - INFO - response: https://duckduckgo.com/?q=ENGLISH+S+MODEL+RAILROAD+official+website 202 15035
+2025-01-21 09:51:36,813 - WARNING - Error with DuckDuckGo Search for query 'ENGLISH S MODEL RAILROAD official website': https://duckduckgo.com/?q=ENGLISH+S+MODEL+RAILROAD+official+website 202 Ratelimit. Retrying in 4.14 seconds... (Attempt 2/5)
+2025-01-21 09:51:40,953 - INFO - Performing search for query: 'ENGLISH S MODEL RAILROAD official website'
+2025-01-21 09:51:41,172 - INFO - response: https://duckduckgo.com/?q=ENGLISH+S+MODEL+RAILROAD+official+website 200 19547
+2025-01-21 09:51:42,079 - INFO - response: https://links.duckduckgo.com/d.js?q=ENGLISH+S+MODEL+RAILROAD+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-328321204088907180631062571164852588726&bing_market=wt-WT&ex=-1 200 23091
+2025-01-21 09:51:42,080 - INFO - Results for 'ENGLISH S MODEL RAILROAD official website': ['https://www.bowser-trains.com/aboutus.html', 'https://modelrailroader.net/aboutus.php', 'https://www.sungazette.com/news/top-news/2023/09/englishs-model-railroad-supply-closes-after-77-years/', 'https://www.bowser-trains.com/', 'https://www.therailwire.net/forum/index.php?topic=56466.0']
+2025-01-21 09:51:42,081 - INFO - Cached results for query: 'ENGLISH S MODEL RAILROAD official website'
+2025-01-21 09:51:42,081 - INFO - Candidate domains for 'ENGLISH S MODEL RAILROAD': ['https://www.bowser-trains.com/aboutus.html', 'https://modelrailroader.net/aboutus.php', 'https://www.sungazette.com/news/top-news/2023/09/englishs-model-railroad-supply-closes-after-77-years/', 'https://www.bowser-trains.com/', 'https://www.therailwire.net/forum/index.php?topic=56466.0']
+2025-01-21 09:51:42,082 - INFO - Sending prompt to OpenAI for ENGLISH S MODEL RAILROAD...
+2025-01-21 09:51:43,326 - INFO - OpenAI Verification Result for ENGLISH S MODEL RAILROAD: The most likely official website for ENGLISH S MODEL RAILROAD in MONTOURSVILLE, PA would be https://www.bowser-trains.com/. This website is directly related to model railroads and train supplies, which aligns with
+2025-01-21 09:51:44,328 - INFO - Performing search for query: 'MIGHTY DUCT official website'
+2025-01-21 09:51:44,696 - INFO - response: https://duckduckgo.com/?q=MIGHTY+DUCT+official+website 200 19393
+2025-01-21 09:51:45,579 - INFO - response: https://links.duckduckgo.com/d.js?q=MIGHTY+DUCT+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-136028853911687526917418464252231640117&bing_market=wt-WT&ex=-1 200 9494
+2025-01-21 09:51:45,580 - WARNING - Error with DuckDuckGo Search for query 'MIGHTY DUCT official website': _text_extract_json() keywords='MIGHTY DUCT official website' ValueError: subsection not found. Retrying in 2.72 seconds... (Attempt 1/5)
+2025-01-21 09:51:48,299 - INFO - Performing search for query: 'MIGHTY DUCT official website'
+2025-01-21 09:51:48,582 - INFO - response: https://duckduckgo.com/?q=MIGHTY+DUCT+official+website 202 14817
+2025-01-21 09:51:48,582 - WARNING - Error with DuckDuckGo Search for query 'MIGHTY DUCT official website': https://duckduckgo.com/?q=MIGHTY+DUCT+official+website 202 Ratelimit. Retrying in 4.50 seconds... (Attempt 2/5)
+2025-01-21 09:51:53,087 - INFO - Performing search for query: 'MIGHTY DUCT official website'
+2025-01-21 09:51:53,293 - INFO - response: https://duckduckgo.com/?q=MIGHTY+DUCT+official+website 200 19363
+2025-01-21 09:51:54,150 - INFO - response: https://links.duckduckgo.com/d.js?q=MIGHTY+DUCT+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-136028853911687526917418464252231640117&bing_market=wt-WT&ex=-1 200 9624
+2025-01-21 09:51:54,150 - WARNING - Error with DuckDuckGo Search for query 'MIGHTY DUCT official website': _text_extract_json() keywords='MIGHTY DUCT official website' ValueError: subsection not found. Retrying in 8.01 seconds... (Attempt 3/5)
+2025-01-21 09:52:02,165 - INFO - Performing search for query: 'MIGHTY DUCT official website'
+2025-01-21 09:52:02,379 - INFO - response: https://duckduckgo.com/?q=MIGHTY+DUCT+official+website 200 19250
+2025-01-21 09:52:03,044 - INFO - response: https://links.duckduckgo.com/d.js?q=MIGHTY+DUCT+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-136028853911687526917418464252231640117&bing_market=wt-WT&ex=-1 200 9563
+2025-01-21 09:52:03,044 - WARNING - Error with DuckDuckGo Search for query 'MIGHTY DUCT official website': _text_extract_json() keywords='MIGHTY DUCT official website' ValueError: subsection not found. Retrying in 16.47 seconds... (Attempt 4/5)
+2025-01-21 09:52:19,515 - INFO - Performing search for query: 'MIGHTY DUCT official website'
+2025-01-21 09:52:19,720 - INFO - response: https://duckduckgo.com/?q=MIGHTY+DUCT+official+website 200 19390
+2025-01-21 09:52:20,024 - INFO - response: https://links.duckduckgo.com/d.js?q=MIGHTY+DUCT+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-136028853911687526917418464252231640117&bing_market=wt-WT&ex=-1 202 569
+2025-01-21 09:52:20,024 - WARNING - Error with DuckDuckGo Search for query 'MIGHTY DUCT official website': https://links.duckduckgo.com/d.js?q=MIGHTY+DUCT+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-136028853911687526917418464252231640117&bing_market=wt-WT&ex=-1 202 Ratelimit. Retrying in 32.53 seconds... (Attempt 5/5)
+2025-01-21 09:57:03,878 - INFO - Loaded existing search cache.
+2025-01-21 09:57:03,878 - INFO - Starting the domain finding process...
+2025-01-21 09:57:03,881 - INFO - CSV file loaded successfully!
+2025-01-21 09:57:03,884 - INFO - First rows of the input file:
+                       NAME           CITY STATE
+0  ENGLISH S MODEL RAILROAD  MONTOURSVILLE    PA
+1               MIGHTY DUCT         MARION    OH
+2       BROOKVILLE SERVICES     BROOKVILLE    PA
+3         TRIPLE B CLEANING        ORLANDO    NY
+4           TAAG INDUSTRIES      ESCONDIDO    GA
+2025-01-21 09:57:03,885 - INFO - Processing only the first 5 rows of the CSV file.
+2025-01-21 09:57:03,892 - INFO - Cache hit for query: 'ENGLISH S MODEL RAILROAD official website'
+2025-01-21 09:57:03,892 - INFO - Candidate domains for 'ENGLISH S MODEL RAILROAD': ['https://www.bowser-trains.com/aboutus.html', 'https://modelrailroader.net/aboutus.php', 'https://www.sungazette.com/news/top-news/2023/09/englishs-model-railroad-supply-closes-after-77-years/', 'https://www.bowser-trains.com/', 'https://www.therailwire.net/forum/index.php?topic=56466.0']
+2025-01-21 09:57:03,892 - INFO - Sending prompt to OpenAI for ENGLISH S MODEL RAILROAD...
+2025-01-21 09:57:04,980 - INFO - OpenAI Verification Result for ENGLISH S MODEL RAILROAD: The most likely official website for ENGLISH S MODEL RAILROAD in MONTOURSVILLE, PA would be https://www.bowser-trains.com/. This website is directly related to model railroads and train supplies, which aligns with
+2025-01-21 09:57:06,005 - INFO - Performing search for query: 'MIGHTY DUCT official website'
+2025-01-21 09:57:06,267 - INFO - response: https://duckduckgo.com/?q=MIGHTY+DUCT+official+website 200 19385
+2025-01-21 09:57:07,017 - INFO - response: https://links.duckduckgo.com/d.js?q=MIGHTY+DUCT+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-136028853911687526917418464252231640117&bing_market=wt-WT&ex=-1 200 9457
+2025-01-21 09:57:07,018 - WARNING - Error with DuckDuckGo Search for query 'MIGHTY DUCT official website': _text_extract_json() keywords='MIGHTY DUCT official website' ValueError: subsection not found. Retrying in 2.57 seconds... (Attempt 1/5)
+2025-01-21 09:57:09,587 - INFO - Performing search for query: 'MIGHTY DUCT official website'
+2025-01-21 09:57:09,820 - INFO - response: https://duckduckgo.com/?q=MIGHTY+DUCT+official+website 200 19250
+2025-01-21 09:57:10,564 - INFO - response: https://links.duckduckgo.com/d.js?q=MIGHTY+DUCT+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-136028853911687526917418464252231640117&bing_market=wt-WT&ex=-1 200 8862
+2025-01-21 09:57:10,565 - WARNING - Error with DuckDuckGo Search for query 'MIGHTY DUCT official website': _text_extract_json() keywords='MIGHTY DUCT official website' ValueError: subsection not found. Retrying in 4.18 seconds... (Attempt 2/5)
+2025-01-21 09:57:14,752 - INFO - Performing search for query: 'MIGHTY DUCT official website'
+2025-01-21 09:57:14,980 - INFO - response: https://duckduckgo.com/?q=MIGHTY+DUCT+official+website 200 19410
+2025-01-21 09:57:15,258 - INFO - response: https://links.duckduckgo.com/d.js?q=MIGHTY+DUCT+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-136028853911687526917418464252231640117&bing_market=wt-WT&ex=-1 202 516
+2025-01-21 09:57:15,259 - WARNING - Error with DuckDuckGo Search for query 'MIGHTY DUCT official website': https://links.duckduckgo.com/d.js?q=MIGHTY+DUCT+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-136028853911687526917418464252231640117&bing_market=wt-WT&ex=-1 202 Ratelimit. Retrying in 8.71 seconds... (Attempt 3/5)
+2025-01-21 09:57:23,971 - INFO - Performing search for query: 'MIGHTY DUCT official website'
+2025-01-21 09:57:24,234 - INFO - response: https://duckduckgo.com/?q=MIGHTY+DUCT+official+website 200 19363
+2025-01-21 09:57:24,505 - INFO - response: https://links.duckduckgo.com/d.js?q=MIGHTY+DUCT+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-136028853911687526917418464252231640117&bing_market=wt-WT&ex=-1 202 573
+2025-01-21 09:57:24,505 - WARNING - Error with DuckDuckGo Search for query 'MIGHTY DUCT official website': https://links.duckduckgo.com/d.js?q=MIGHTY+DUCT+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-136028853911687526917418464252231640117&bing_market=wt-WT&ex=-1 202 Ratelimit. Retrying in 16.99 seconds... (Attempt 4/5)
+2025-01-21 09:57:41,492 - INFO - Performing search for query: 'MIGHTY DUCT official website'
+2025-01-21 09:57:41,720 - INFO - response: https://duckduckgo.com/?q=MIGHTY+DUCT+official+website 200 19385
+2025-01-21 09:57:42,020 - INFO - response: https://links.duckduckgo.com/d.js?q=MIGHTY+DUCT+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-136028853911687526917418464252231640117&bing_market=wt-WT&ex=-1 202 569
+2025-01-21 09:57:42,020 - WARNING - Error with DuckDuckGo Search for query 'MIGHTY DUCT official website': https://links.duckduckgo.com/d.js?q=MIGHTY+DUCT+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-136028853911687526917418464252231640117&bing_market=wt-WT&ex=-1 202 Ratelimit. Retrying in 32.67 seconds... (Attempt 5/5)
+2025-01-21 09:58:14,690 - ERROR - All 5 retries failed for query: 'MIGHTY DUCT official website'.
+2025-01-21 09:58:14,690 - INFO - Candidate domains for 'MIGHTY DUCT': []
+2025-01-21 09:58:14,690 - INFO - No valid domains found for MIGHTY DUCT. Skipping OpenAI verification.
+2025-01-21 09:58:15,692 - INFO - Performing search for query: 'BROOKVILLE SERVICES official website'
+2025-01-21 09:58:15,910 - INFO - response: https://duckduckgo.com/?q=BROOKVILLE+SERVICES+official+website 200 19477
+2025-01-21 09:58:16,236 - INFO - response: https://links.duckduckgo.com/d.js?q=BROOKVILLE+SERVICES+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-28113624064812339930601561495065392726&bing_market=wt-WT&ex=-1 202 583
+2025-01-21 09:58:16,236 - WARNING - Error with DuckDuckGo Search for query 'BROOKVILLE SERVICES official website': https://links.duckduckgo.com/d.js?q=BROOKVILLE+SERVICES+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-28113624064812339930601561495065392726&bing_market=wt-WT&ex=-1 202 Ratelimit. Retrying in 2.68 seconds... (Attempt 1/5)
+2025-01-21 09:58:18,914 - INFO - Performing search for query: 'BROOKVILLE SERVICES official website'
+2025-01-21 09:58:19,193 - INFO - response: https://duckduckgo.com/?q=BROOKVILLE+SERVICES+official+website 202 14906
+2025-01-21 09:58:19,193 - WARNING - Error with DuckDuckGo Search for query 'BROOKVILLE SERVICES official website': https://duckduckgo.com/?q=BROOKVILLE+SERVICES+official+website 202 Ratelimit. Retrying in 4.16 seconds... (Attempt 2/5)
+2025-01-21 09:58:23,356 - INFO - Performing search for query: 'BROOKVILLE SERVICES official website'
+2025-01-21 09:58:23,567 - INFO - response: https://duckduckgo.com/?q=BROOKVILLE+SERVICES+official+website 200 19455
+2025-01-21 09:58:24,325 - INFO - response: https://links.duckduckgo.com/d.js?q=BROOKVILLE+SERVICES+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-28113624064812339930601561495065392726&bing_market=wt-WT&ex=-1 200 9529
+2025-01-21 09:58:24,326 - WARNING - Error with DuckDuckGo Search for query 'BROOKVILLE SERVICES official website': _text_extract_json() keywords='BROOKVILLE SERVICES official website' ValueError: subsection not found. Retrying in 8.03 seconds... (Attempt 3/5)
+2025-01-21 09:58:32,355 - INFO - Performing search for query: 'BROOKVILLE SERVICES official website'
+2025-01-21 09:58:32,608 - INFO - response: https://duckduckgo.com/?q=BROOKVILLE+SERVICES+official+website 200 19477
+2025-01-21 09:58:33,311 - INFO - response: https://links.duckduckgo.com/d.js?q=BROOKVILLE+SERVICES+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-28113624064812339930601561495065392726&bing_market=wt-WT&ex=-1 200 8972
+2025-01-21 09:58:33,312 - WARNING - Error with DuckDuckGo Search for query 'BROOKVILLE SERVICES official website': _text_extract_json() keywords='BROOKVILLE SERVICES official website' ValueError: subsection not found. Retrying in 16.49 seconds... (Attempt 4/5)
+2025-01-21 09:58:49,799 - INFO - Performing search for query: 'BROOKVILLE SERVICES official website'
+2025-01-21 09:58:50,087 - INFO - response: https://duckduckgo.com/?q=BROOKVILLE+SERVICES+official+website 200 19453
+2025-01-21 09:58:50,369 - INFO - response: https://links.duckduckgo.com/d.js?q=BROOKVILLE+SERVICES+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-28113624064812339930601561495065392726&bing_market=wt-WT&ex=-1 202 579
+2025-01-21 09:58:50,369 - WARNING - Error with DuckDuckGo Search for query 'BROOKVILLE SERVICES official website': https://links.duckduckgo.com/d.js?q=BROOKVILLE+SERVICES+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-28113624064812339930601561495065392726&bing_market=wt-WT&ex=-1 202 Ratelimit. Retrying in 32.74 seconds... (Attempt 5/5)
+2025-01-21 09:59:23,108 - ERROR - All 5 retries failed for query: 'BROOKVILLE SERVICES official website'.
+2025-01-21 09:59:23,108 - INFO - Candidate domains for 'BROOKVILLE SERVICES': []
+2025-01-21 09:59:23,108 - INFO - No valid domains found for BROOKVILLE SERVICES. Skipping OpenAI verification.
+2025-01-21 09:59:24,109 - INFO - Performing search for query: 'TRIPLE B CLEANING official website'
+2025-01-21 09:59:24,360 - INFO - response: https://duckduckgo.com/?q=TRIPLE+B+CLEANING+official+website 200 19479
+2025-01-21 09:59:25,163 - INFO - response: https://links.duckduckgo.com/d.js?q=TRIPLE+B+CLEANING+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-137473917001125071608565084269133182115&bing_market=wt-WT&ex=-1 200 10157
+2025-01-21 09:59:25,163 - WARNING - Error with DuckDuckGo Search for query 'TRIPLE B CLEANING official website': _text_extract_json() keywords='TRIPLE B CLEANING official website' ValueError: subsection not found. Retrying in 2.13 seconds... (Attempt 1/5)
+2025-01-21 09:59:27,292 - INFO - Performing search for query: 'TRIPLE B CLEANING official website'
+2025-01-21 09:59:27,521 - INFO - response: https://duckduckgo.com/?q=TRIPLE+B+CLEANING+official+website 200 19449
+2025-01-21 09:59:28,335 - INFO - response: https://links.duckduckgo.com/d.js?q=TRIPLE+B+CLEANING+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-137473917001125071608565084269133182115&bing_market=wt-WT&ex=-1 200 35919
+2025-01-21 09:59:28,336 - WARNING - Error with DuckDuckGo Search for query 'TRIPLE B CLEANING official website': _text_extract_json() keywords='TRIPLE B CLEANING official website' ValueError: subsection not found. Retrying in 4.44 seconds... (Attempt 2/5)
+2025-01-21 09:59:32,771 - INFO - Performing search for query: 'TRIPLE B CLEANING official website'
+2025-01-21 09:59:33,048 - INFO - response: https://duckduckgo.com/?q=TRIPLE+B+CLEANING+official+website 200 19469
+2025-01-21 09:59:43,062 - WARNING - Error with DuckDuckGo Search for query 'TRIPLE B CLEANING official website': https://links.duckduckgo.com/d.js RuntimeError: error sending request for url (https://links.duckduckgo.com/d.js?q=TRIPLE+B+CLEANING+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-137473917001125071608565084269133182115&bing_market=wt-WT&ex=-1): operation timed out
+
+Caused by:
+    operation timed out. Retrying in 8.69 seconds... (Attempt 3/5)
+2025-01-21 09:59:51,758 - INFO - Performing search for query: 'TRIPLE B CLEANING official website'
+2025-01-21 10:00:01,771 - WARNING - Error with DuckDuckGo Search for query 'TRIPLE B CLEANING official website': https://duckduckgo.com RuntimeError: error sending request for url (https://duckduckgo.com/?q=TRIPLE+B+CLEANING+official+website): operation timed out
+
+Caused by:
+    operation timed out. Retrying in 16.95 seconds... (Attempt 4/5)
+2025-01-21 10:00:18,722 - INFO - Performing search for query: 'TRIPLE B CLEANING official website'
+2025-01-21 10:00:28,739 - WARNING - Error with DuckDuckGo Search for query 'TRIPLE B CLEANING official website': https://duckduckgo.com RuntimeError: error sending request for url (https://duckduckgo.com/?q=TRIPLE+B+CLEANING+official+website): operation timed out
+
+Caused by:
+    operation timed out. Retrying in 32.42 seconds... (Attempt 5/5)
+2025-01-21 10:01:01,165 - ERROR - All 5 retries failed for query: 'TRIPLE B CLEANING official website'.
+2025-01-21 10:01:01,165 - INFO - Candidate domains for 'TRIPLE B CLEANING': []
+2025-01-21 10:01:01,165 - INFO - No valid domains found for TRIPLE B CLEANING. Skipping OpenAI verification.
+2025-01-21 10:01:02,167 - INFO - Performing search for query: 'TAAG INDUSTRIES official website'
+2025-01-21 10:01:02,427 - INFO - response: https://duckduckgo.com/?q=TAAG+INDUSTRIES+official+website 200 19433
+2025-01-21 10:01:02,753 - INFO - response: https://links.duckduckgo.com/d.js?q=TAAG+INDUSTRIES+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-295372278193531047576177911017711230063&bing_market=wt-WT&ex=-1 202 571
+2025-01-21 10:01:02,754 - WARNING - Error with DuckDuckGo Search for query 'TAAG INDUSTRIES official website': https://links.duckduckgo.com/d.js?q=TAAG+INDUSTRIES+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-295372278193531047576177911017711230063&bing_market=wt-WT&ex=-1 202 Ratelimit. Retrying in 2.27 seconds... (Attempt 1/5)
+2025-01-21 10:01:05,023 - INFO - Performing search for query: 'TAAG INDUSTRIES official website'
+2025-01-21 10:01:05,280 - INFO - response: https://duckduckgo.com/?q=TAAG+INDUSTRIES+official+website 200 19411
+2025-01-21 10:01:05,543 - INFO - response: https://links.duckduckgo.com/d.js?q=TAAG+INDUSTRIES+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-295372278193531047576177911017711230063&bing_market=wt-WT&ex=-1 202 573
+2025-01-21 10:01:05,544 - WARNING - Error with DuckDuckGo Search for query 'TAAG INDUSTRIES official website': https://links.duckduckgo.com/d.js?q=TAAG+INDUSTRIES+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-295372278193531047576177911017711230063&bing_market=wt-WT&ex=-1 202 Ratelimit. Retrying in 4.86 seconds... (Attempt 2/5)
+2025-01-21 10:01:10,410 - INFO - Performing search for query: 'TAAG INDUSTRIES official website'
+2025-01-21 10:01:10,644 - INFO - response: https://duckduckgo.com/?q=TAAG+INDUSTRIES+official+website 200 19411
+2025-01-21 10:01:10,927 - INFO - response: https://links.duckduckgo.com/d.js?q=TAAG+INDUSTRIES+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-295372278193531047576177911017711230063&bing_market=wt-WT&ex=-1 202 575
+2025-01-21 10:01:10,927 - WARNING - Error with DuckDuckGo Search for query 'TAAG INDUSTRIES official website': https://links.duckduckgo.com/d.js?q=TAAG+INDUSTRIES+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-295372278193531047576177911017711230063&bing_market=wt-WT&ex=-1 202 Ratelimit. Retrying in 8.35 seconds... (Attempt 3/5)
+2025-01-21 10:01:19,274 - INFO - Performing search for query: 'TAAG INDUSTRIES official website'
+2025-01-21 10:01:19,510 - INFO - response: https://duckduckgo.com/?q=TAAG+INDUSTRIES+official+website 200 19411
+2025-01-21 10:01:19,846 - INFO - response: https://links.duckduckgo.com/d.js?q=TAAG+INDUSTRIES+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-295372278193531047576177911017711230063&bing_market=wt-WT&ex=-1 202 577
+2025-01-21 10:01:19,847 - WARNING - Error with DuckDuckGo Search for query 'TAAG INDUSTRIES official website': https://links.duckduckgo.com/d.js?q=TAAG+INDUSTRIES+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-295372278193531047576177911017711230063&bing_market=wt-WT&ex=-1 202 Ratelimit. Retrying in 16.49 seconds... (Attempt 4/5)
+2025-01-21 10:01:36,340 - INFO - Performing search for query: 'TAAG INDUSTRIES official website'
+2025-01-21 10:01:36,618 - INFO - response: https://duckduckgo.com/?q=TAAG+INDUSTRIES+official+website 202 14914
+2025-01-21 10:01:36,618 - WARNING - Error with DuckDuckGo Search for query 'TAAG INDUSTRIES official website': https://duckduckgo.com/?q=TAAG+INDUSTRIES+official+website 202 Ratelimit. Retrying in 32.41 seconds... (Attempt 5/5)
+2025-01-21 10:02:09,029 - ERROR - All 5 retries failed for query: 'TAAG INDUSTRIES official website'.
+2025-01-21 10:02:09,029 - INFO - Candidate domains for 'TAAG INDUSTRIES': []
+2025-01-21 10:02:09,029 - INFO - No valid domains found for TAAG INDUSTRIES. Skipping OpenAI verification.
+2025-01-21 10:02:10,032 - INFO - 
+Final Results:
+2025-01-21 10:02:10,032 - INFO - {'Company Name': 'ENGLISH S MODEL RAILROAD', 'City': 'MONTOURSVILLE', 'State': 'PA', 'Official Domain': 'The most likely official website for ENGLISH S MODEL RAILROAD in MONTOURSVILLE, PA would be https://www.bowser-trains.com/. This website is directly related to model railroads and train supplies, which aligns with'}
+2025-01-21 10:02:10,032 - INFO - {'Company Name': 'MIGHTY DUCT', 'City': 'MARION', 'State': 'OH', 'Official Domain': 'No valid domains found'}
+2025-01-21 10:02:10,032 - INFO - {'Company Name': 'BROOKVILLE SERVICES', 'City': 'BROOKVILLE', 'State': 'PA', 'Official Domain': 'No valid domains found'}
+2025-01-21 10:02:10,032 - INFO - {'Company Name': 'TRIPLE B CLEANING', 'City': 'ORLANDO', 'State': 'NY', 'Official Domain': 'No valid domains found'}
+2025-01-21 10:02:10,032 - INFO - {'Company Name': 'TAAG INDUSTRIES', 'City': 'ESCONDIDO', 'State': 'GA', 'Official Domain': 'No valid domains found'}
+2025-01-21 10:02:10,037 - INFO - Results saved to C:\Users\DanielGeneralov\OneDrive - Tide Rock Holdings\Desktop\Domain_Search_Results.csv
+2025-01-21 10:02:10,037 - INFO - Process completed successfully!
+2025-01-21 10:04:55,383 - INFO - response: https://duckduckgo.com/?q=MIGHTY+DUCT+official+website 200 19363
+2025-01-21 10:04:56,202 - INFO - response: https://links.duckduckgo.com/d.js?q=MIGHTY+DUCT+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-136027924723797796038739195970466829829&bing_market=wt-WT&ex=-1 200 11106
+2025-01-21 10:04:58,453 - INFO - response: https://duckduckgo.com/?q=MIGHTY+DUCT+official+website 200 19363
+2025-01-21 10:04:59,132 - INFO - response: https://links.duckduckgo.com/d.js?q=MIGHTY+DUCT+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-136027924723797796038739195970466829829&bing_market=wt-WT&ex=-1 200 8925
+2025-01-21 10:05:03,383 - INFO - response: https://duckduckgo.com/?q=MIGHTY+DUCT+official+website 200 19415
+2025-01-21 10:05:03,646 - INFO - response: https://links.duckduckgo.com/d.js?q=MIGHTY+DUCT+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-136027924723797796038739195970466829829&bing_market=wt-WT&ex=-1 202 571
+2025-01-21 10:05:11,865 - INFO - response: https://duckduckgo.com/?q=MIGHTY+DUCT+official+website 200 19363
+2025-01-21 10:05:12,155 - INFO - response: https://links.duckduckgo.com/d.js?q=MIGHTY+DUCT+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-136027924723797796038739195970466829829&bing_market=wt-WT&ex=-1 202 571
+2025-01-21 10:05:28,461 - INFO - response: https://duckduckgo.com/?q=MIGHTY+DUCT+official+website 202 14821
+2025-01-21 10:06:01,717 - INFO - response: https://duckduckgo.com/?q=BROOKVILLE+SERVICES+official+website 200 19454
+2025-01-21 10:06:02,081 - INFO - response: https://links.duckduckgo.com/d.js?q=BROOKVILLE+SERVICES+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-28112689806320189249538791207156892774&bing_market=wt-WT&ex=-1 202 577
+2025-01-21 10:06:04,347 - INFO - response: https://duckduckgo.com/?q=BROOKVILLE+SERVICES+official+website 200 19493
+2025-01-21 10:06:04,666 - INFO - response: https://links.duckduckgo.com/d.js?q=BROOKVILLE+SERVICES+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-28112689806320189249538791207156892774&bing_market=wt-WT&ex=-1 202 577
+2025-01-21 10:06:08,946 - INFO - response: https://duckduckgo.com/?q=BROOKVILLE+SERVICES+official+website 202 14955
+2025-01-21 10:06:17,223 - INFO - response: https://duckduckgo.com/?q=BROOKVILLE+SERVICES+official+website 202 14963
+2025-01-21 10:06:33,502 - INFO - response: https://duckduckgo.com/?q=BROOKVILLE+SERVICES+official+website 202 14955
+2025-01-21 10:07:06,814 - INFO - response: https://duckduckgo.com/?q=TRIPLE+B+CLEANING+official+website 202 14897
+2025-01-21 10:07:09,092 - INFO - response: https://duckduckgo.com/?q=TRIPLE+B+CLEANING+official+website 202 14946
+2025-01-21 10:07:13,380 - INFO - response: https://duckduckgo.com/?q=TRIPLE+B+CLEANING+official+website 202 14949
+2025-01-21 10:07:21,707 - INFO - response: https://duckduckgo.com/?q=TRIPLE+B+CLEANING+official+website 202 14946
+2025-01-21 10:07:38,023 - INFO - response: https://duckduckgo.com/?q=TRIPLE+B+CLEANING+official+website 202 14948
+2025-01-21 10:08:11,318 - INFO - response: https://duckduckgo.com/?q=TAAG+INDUSTRIES+official+website 202 14910
+2025-01-21 10:08:13,621 - INFO - response: https://duckduckgo.com/?q=TAAG+INDUSTRIES+official+website 202 14914
+2025-01-21 10:08:17,911 - INFO - response: https://duckduckgo.com/?q=TAAG+INDUSTRIES+official+website 200 19411
+2025-01-21 10:08:18,696 - INFO - response: https://links.duckduckgo.com/d.js?q=TAAG+INDUSTRIES+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-295372278193531047576177911017711230063&bing_market=wt-WT&ex=-1 200 9106
+2025-01-21 10:08:27,084 - INFO - response: https://duckduckgo.com/?q=TAAG+INDUSTRIES+official+website 200 19438
+2025-01-21 10:08:27,842 - INFO - response: https://links.duckduckgo.com/d.js?q=TAAG+INDUSTRIES+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-295372278193531047576177911017711230063&bing_market=wt-WT&ex=-1 200 8905
+2025-01-21 10:08:44,099 - INFO - response: https://duckduckgo.com/?q=TAAG+INDUSTRIES+official+website 200 19433
+2025-01-21 10:08:44,380 - INFO - response: https://links.duckduckgo.com/d.js?q=TAAG+INDUSTRIES+official+website&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-295372278193531047576177911017711230063&bing_market=wt-WT&ex=-1 202 579
+2025-01-21 10:15:47,446 - INFO - response: https://lite.duckduckgo.com/lite/ 200 23529
+2025-01-21 10:15:49,961 - INFO - response: https://lite.duckduckgo.com/lite/ 200 16688
+2025-01-21 10:15:52,429 - INFO - response: https://html.duckduckgo.com/html 200 31810
+2025-01-21 10:15:54,813 - INFO - response: https://lite.duckduckgo.com/lite/ 200 15896
+2025-01-21 10:15:57,087 - ERROR - Error saving results: [Errno 13] Permission denied: 'C:\\Users\\DanielGeneralov\\OneDrive - Tide Rock Holdings\\Desktop\\Domain_Search_Results.csv'
+2025-01-21 10:34:31,649 - INFO - Sending prompt to OpenAI for ENGLISH S MODEL RAILROAD...
+2025-01-21 10:34:32,441 - INFO - OpenAI Verification Result for ENGLISH S MODEL RAILROAD: https://www.bowser-trains.com/
+2025-01-21 10:34:33,443 - INFO - Sending prompt to OpenAI for MIGHTY DUCT...
+2025-01-21 10:34:33,894 - INFO - OpenAI Verification Result for MIGHTY DUCT: https://www.mightyducts.com/
+2025-01-21 10:34:34,896 - INFO - Sending prompt to OpenAI for BROOKVILLE SERVICES...
+2025-01-21 10:34:35,376 - INFO - OpenAI Verification Result for BROOKVILLE SERVICES: https://www.brookvillecorp.com/
+2025-01-21 10:34:36,377 - INFO - Sending prompt to OpenAI for TRIPLE B CLEANING...
+2025-01-21 10:34:36,714 - INFO - OpenAI Verification Result for TRIPLE B CLEANING: http://triplebcleaninginc.com/
+2025-01-21 10:34:37,716 - INFO - Sending prompt to OpenAI for TAAG INDUSTRIES...
+2025-01-21 10:34:38,184 - INFO - OpenAI Verification Result for TAAG INDUSTRIES: http://taagsheetmetal.com/
